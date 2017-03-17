@@ -7,8 +7,39 @@
 ##更新日志
 [=> 更新日志 <=](https://git.oschina.net/famio/Chronicle_of_End/blob/master/Changelogs.md)
 
-##角色介绍
-待定
+##角色介绍（初定）
+<table width="100%">
+<tr>
+<th width="20%">原画</th>
+<th width="20%">名字</th>
+<th width="20%">职业</th>
+<th>简介</th>
+</tr>
+<tr>
+<td><img src="http://git.oschina.net/uploads/images/2017/0317/172106_989abb5b_463895.png" /></td>
+<td>绯末 Famio</td>
+<td>佣兵 -> 剑士 -> 骑士</td>
+<td>待定</td>
+</tr>
+<tr>
+<td><img src="http://git.oschina.net/uploads/images/2017/0317/172112_6ea9c817_463895.png" /></td>
+<td>菲欧娜 Fiona</td>
+<td>神官 -> 祭司 -> 主教</td>
+<td>待定</td>
+</tr>
+<tr>
+<td><img src="http://git.oschina.net/uploads/images/2017/0317/172120_9e62be34_463895.png" /></td>
+<td>林克 Link</td>
+<td>斥候 -> 弓手 -> 游侠</td>
+<td>待定</td>
+</tr>
+<tr>
+<td><img src="http://git.oschina.net/uploads/images/2017/0317/172127_b1d5c8a6_463895.png" /></td>
+<td>索菲亚 Sofia</td>
+<td>学徒 -> 法师 -> 贤者</td>
+<td>待定</td>
+</tr>
+</table>
 
 ##职业介绍
 待定
