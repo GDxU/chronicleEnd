@@ -5,7 +5,28 @@
 暂不打算加入各种臃肿的脚本和其它绚丽的特效模块，因为我觉得原生资源已经能够满足。
 <table>
 <tr>
-<th>213</th>
+<th>原画</th>
+<th>名字</th>
+<th>职业</th>
+<th>简介</th>
+</tr>
+<tr>
+<th>![Famio](http://git.oschina.net/uploads/images/2017/0317/172106_989abb5b_463895.png "Famio")</th>
+<th>绯末 Famio</th>
+<th>佣兵 -> 剑士 -> 骑士</th>
+<th>待定</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 </table>
 
