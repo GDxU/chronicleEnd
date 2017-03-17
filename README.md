@@ -9,7 +9,7 @@
 
 ##角色介绍（初定）
 |原画|名字|职业|简介|
- | --------   | -----   | ----- |
+ | --------   | -----   | ----- |----- |
 |![Famio](http://git.oschina.net/uploads/images/2017/0317/172106_989abb5b_463895.png "Famio")|绯末 Famio|佣兵 -> 剑士 -> 骑士|待定|
 |![Fiona](http://git.oschina.net/uploads/images/2017/0317/172112_6ea9c817_463895.png "Fiona")|菲欧娜 Fiona|神官 -> 祭司 -> 主教|待定|
 |![Link](http://git.oschina.net/uploads/images/2017/0317/172120_9e62be34_463895.png "Link")|林克 Link|斥候 -> 弓手 -> 游侠|待定|
