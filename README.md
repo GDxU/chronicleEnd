@@ -3,6 +3,11 @@
 是一个英雄拯救世界的故事，也是一个开源项目。计划以完全透明开发的方式进行制作。
 所有游戏资源都由RPG Maker MV提供，本游戏所使用的开发工具为KADOKAWA GAMES公司正版授权。
 暂不打算加入各种臃肿的脚本和其它绚丽的特效模块，因为我觉得原生资源已经能够满足。
+
+##更新日志
+[=> 更新日志 <=](https://git.oschina.net/famio/Chronicle_of_End/blob/master/Changelogs.md)
+
+##角色介绍（初定）
 <table>
 <tr>
 <th>原画</th>
@@ -11,35 +16,30 @@
 <th>简介</th>
 </tr>
 <tr>
-<th><img src="http://git.oschina.net/uploads/images/2017/0317/172106_989abb5b_463895.png" /></th>
-<th>绯末 Famio</th>
-<th>佣兵 -> 剑士 -> 骑士</th>
-<th>待定</th>
+<td><img src="http://git.oschina.net/uploads/images/2017/0317/172106_989abb5b_463895.png" /></td>
+<td>绯末 Famio</td>
+<td>佣兵 -> 剑士 -> 骑士</td>
+<td>待定</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td><img src="http://git.oschina.net/uploads/images/2017/0317/172112_6ea9c817_463895.png" /></td>
+<td>菲欧娜 Fiona</td>
+<td>神官 -> 祭司 -> 主教</td>
+<td>待定</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td><img src="http://git.oschina.net/uploads/images/2017/0317/172120_9e62be34_463895.png" /></td>
+<td>林克 Link</td>
+<td>斥候 -> 弓手 -> 游侠</td>
+<td>待定</td>
+</tr>
+<tr>
+<td><img src="http://git.oschina.net/uploads/images/2017/0317/172127_b1d5c8a6_463895.png" /></td>
+<td>索菲亚 Sofia</td>
+<td>学徒 -> 法师 -> 贤者</td>
+<td>待定</td>
 </tr>
 </table>
-
-##更新日志
-[=> 更新日志 <=](https://git.oschina.net/famio/Chronicle_of_End/blob/master/Changelogs.md)
-
-##角色介绍（初定）
-|原画|名字|职业|简介|
- | --------   | -----   | ----- |----- |
-|![Famio](http://git.oschina.net/uploads/images/2017/0317/172106_989abb5b_463895.png "Famio")|绯末 Famio|佣兵 -> 剑士 -> 骑士|待定|
-|![Fiona](http://git.oschina.net/uploads/images/2017/0317/172112_6ea9c817_463895.png "Fiona")|菲欧娜 Fiona|神官 -> 祭司 -> 主教|待定|
-|![Link](http://git.oschina.net/uploads/images/2017/0317/172120_9e62be34_463895.png "Link")|林克 Link|斥候 -> 弓手 -> 游侠|待定|
-|![Sofia](http://git.oschina.net/uploads/images/2017/0317/172127_b1d5c8a6_463895.png "Sofia")|索菲亚 Sofia|学徒 -> 法师 -> 贤者|待定|
 
 ##职业介绍
 待定
