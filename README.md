@@ -5,7 +5,7 @@
 暂不打算加入各种臃肿的脚本和其它绚丽的特效模块，因为我觉得原生资源已经能够满足。
 
 ##更新日志
-待定
+[=> 更新日志 <=](https://git.oschina.net/famio/Chronicle_of_End/blob/master/Changelogs.md)
 
 ##角色介绍
 待定
