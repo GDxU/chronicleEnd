@@ -10,9 +10,9 @@
 ##角色介绍（初定）
 <table width="100%">
 <tr>
-<th>原画</th>
-<th>名字</th>
-<th>职业</th>
+<th width="20%">原画</th>
+<th width="20%">名字</th>
+<th width="20%">职业</th>
 <th>简介</th>
 </tr>
 <tr>
