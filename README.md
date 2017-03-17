@@ -11,7 +11,7 @@
 <th>简介</th>
 </tr>
 <tr>
-<th>![Famio](http://git.oschina.net/uploads/images/2017/0317/172106_989abb5b_463895.png "Famio")</th>
+<th><img src="http://git.oschina.net/uploads/images/2017/0317/172106_989abb5b_463895.png" /></th>
 <th>绯末 Famio</th>
 <th>佣兵 -> 剑士 -> 骑士</th>
 <th>待定</th>
