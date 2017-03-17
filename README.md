@@ -8,7 +8,10 @@
 [=> 更新日志 <=](https://git.oschina.net/famio/Chronicle_of_End/blob/master/Changelogs.md)
 
 ##角色介绍
-待定
+![Famio](http://git.oschina.net/uploads/images/2017/0317/171454_8b0b2913_463895.png "Famio")
+![Fiona](http://git.oschina.net/uploads/images/2017/0317/171505_02f013d0_463895.png "Fiona")
+![Link](http://git.oschina.net/uploads/images/2017/0317/171512_19837a70_463895.png "Link")
+![Sofia](http://git.oschina.net/uploads/images/2017/0317/171517_5ab23fd8_463895.png "Sofia")
 
 ##职业介绍
 待定
