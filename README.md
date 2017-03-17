@@ -8,7 +8,7 @@
 [=> 更新日志 <=](https://git.oschina.net/famio/Chronicle_of_End/blob/master/Changelogs.md)
 
 ##角色介绍（初定）
-<table>
+<table width="100%">
 <tr>
 <th>原画</th>
 <th>名字</th>
