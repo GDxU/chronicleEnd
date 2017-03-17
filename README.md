@@ -8,10 +8,10 @@
 [=> 更新日志 <=](https://git.oschina.net/famio/Chronicle_of_End/blob/master/Changelogs.md)
 
 ##角色介绍
-![输入图片说明](http://git.oschina.net/uploads/images/2017/0317/172106_989abb5b_463895.png "在这里输入图片标题")
-![输入图片说明](http://git.oschina.net/uploads/images/2017/0317/172112_6ea9c817_463895.png "在这里输入图片标题")
-![输入图片说明](http://git.oschina.net/uploads/images/2017/0317/172120_9e62be34_463895.png "在这里输入图片标题")
-![输入图片说明](http://git.oschina.net/uploads/images/2017/0317/172127_b1d5c8a6_463895.png "在这里输入图片标题")
+![Famio](http://git.oschina.net/uploads/images/2017/0317/172106_989abb5b_463895.png "Famio")123
+![Fiona](http://git.oschina.net/uploads/images/2017/0317/172112_6ea9c817_463895.png "Fiona")123
+![Link](http://git.oschina.net/uploads/images/2017/0317/172120_9e62be34_463895.png "Link")123
+![Sofia](http://git.oschina.net/uploads/images/2017/0317/172127_b1d5c8a6_463895.png "Sofia")123
 
 ##职业介绍
 待定
