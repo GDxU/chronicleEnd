@@ -5,14 +5,13 @@
 所有游戏资源都由``RPG Maker MV``提供，本游戏所使用的开发工具为``KADOKAWA GAMES``公司正版授权。
 暂不打算加入各种臃肿的脚本和其它绚丽的特效模块，因为我觉得原生资源已经能够满足。
 
-###平台
-<i class="fa fa-windows fa-3x" style="color:red;"></i>      <i class="fa fa-android fa-3x"></i>      <i class="fa fa-apple fa-3x"></i>        <i class="fa fa-chrome fa-3x"></i>
-
 ###更新日志
 [=> 更新日志 <=](https://git.oschina.net/famio/Chronicle_of_End/blob/master/Changelogs.md)
 
 ###角色（初定）
+<div align=center>
 ![角色](http://git.oschina.net/uploads/images/2017/0320/222042_4e0a34ae_463895.png "角色")
+</div>
 
 ###武器一览
 ![剑系武器](http://git.oschina.net/uploads/images/2017/0320/215814_c5cc4658_463895.png "剑系武器")
