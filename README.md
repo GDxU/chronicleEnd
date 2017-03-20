@@ -1,3 +1,8 @@
+##说在前头
+这个游戏是我闲暇之余开的一个大坑，用的工具很简单，素材也都是现成的，自然比不上那些搞设计的真玩家。我只是小打小闹。
+请不要在意那些中二的技能名和武器道具名，有些不合适or不好听的后期会改。目前先只是算个“代号”吧。
+目前还在设计框架中，有兴趣的可以一起做，欢迎各种pull。
+
 <link rel="stylesheet" type="text/css" href="http://apps.bdimg.com/libs/fontawesome/4.4.0/css/font-awesome.min.css">
 ###简介
 终末编年史（Chronicle of End，以下简称COE）是一个使用``RPG Maker MV``开发工具开发基于HTML5的跨平台游戏。
