@@ -6,7 +6,7 @@
 暂不打算加入各种臃肿的脚本和其它绚丽的特效模块，因为我觉得原生资源已经能够满足。
 
 ##平台
-<i class="fa fa-windows fa-3x" style="color:#61b3e6;"></i>  <i class="fa fa-android fa-3x" style="color:#61b3e6;"></i>  <i class="fa fa-ios fa-3x" style="color:#61b3e6;"></i>  <i class="fa fa-web fa-3x" style="color:#61b3e6;"></i>
+<i class="fa fa-windows fa-3x" style="color:#61b3e6;"></i>      <i class="fa fa-android fa-3x" style="color:#61b3e6;"></i>      <i class="fa fa-apple fa-3x" style="color:#61b3e6;"></i>        <i class="fa fa-chrome fa-3x" style="color:#61b3e6;"></i>
 
 ##更新日志
 [=> 更新日志 <=](https://git.oschina.net/famio/Chronicle_of_End/blob/master/Changelogs.md)
