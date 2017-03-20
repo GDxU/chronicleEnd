@@ -9,7 +9,7 @@
 [=> 更新日志 <=](https://git.oschina.net/famio/Chronicle_of_End/blob/master/Changelogs.md)
 
 ###角色（初定）
-![角色](http://git.oschina.net/uploads/images/2017/0320/223659_73a87238_463895.png "角色")
+![角色](http://git.oschina.net/uploads/images/2017/0320/223749_c8261147_463895.png "角色")
 
 ###武器一览
 ![剑系武器](http://git.oschina.net/uploads/images/2017/0320/215814_c5cc4658_463895.png "剑系武器")
