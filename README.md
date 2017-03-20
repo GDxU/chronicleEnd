@@ -10,7 +10,7 @@
 
 ###角色（初定）
 <div align=center>
-![角色](http://git.oschina.net/uploads/images/2017/0320/222042_4e0a34ae_463895.png "角色")
+<img src="http://git.oschina.net/uploads/images/2017/0320/222042_4e0a34ae_463895.png">
 </div>
 
 ###武器一览
