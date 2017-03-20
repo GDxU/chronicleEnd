@@ -12,7 +12,10 @@
 ![角色](http://git.oschina.net/uploads/images/2017/0320/223749_c8261147_463895.png "角色")
 
 ###武器一览
+####剑
 ![剑系武器](http://git.oschina.net/uploads/images/2017/0320/215814_c5cc4658_463895.png "剑系武器")
+####弓
+![弓系武器](http://git.oschina.net/uploads/images/2017/0320/231103_a3b6f32f_463895.png "弓系武器")
 
 ###职业介绍
 待定
