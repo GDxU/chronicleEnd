@@ -14,6 +14,9 @@
  **支持平台：Windows / Mac OS / Android / IOS / Web** 
 
 ###游戏截图
+在线演示地址:[COE](http://famio.oschina.io/chronicle_of_end)
+在线演示使用的是osc的page服务，故把游戏发布为web版本來运行，实际在windows上是exe程序，mac/android/ios平台以此类推。
+
 ![战斗画面](http://git.oschina.net/uploads/images/2017/0321/092450_07605316_463895.jpeg "战斗画面")
 
 ###更新日志
