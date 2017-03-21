@@ -11,6 +11,8 @@
 所有游戏资源都由``RPG Maker MV``提供，本游戏所使用的开发工具为``KADOKAWA GAMES``公司正版授权。
 暂不打算加入各种臃肿的脚本和其它绚丽的特效模块，因为我觉得原生资源已经能够满足。
 
+ **支持平台：Windows / Mac OS / Android / IOS / Web** 
+
 ###游戏截图
 ![战斗画面](http://git.oschina.net/uploads/images/2017/0321/092450_07605316_463895.jpeg "战斗画面")
 
