@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"DEMO","order":1,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":false,"name":"DEMO","order":1,"parentId":0,"scrollX":816,"scrollY":444.5},
+{"id":2,"expanded":false,"name":"Begining Zone","order":2,"parentId":0,"scrollX":816,"scrollY":444.5},
+{"id":3,"expanded":false,"name":"BlackMap","order":3,"parentId":0,"scrollX":832,"scrollY":640}
 ]
